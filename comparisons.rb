@@ -108,9 +108,7 @@ loves_to_play || loves_dog_park
 # Determine if the dog loves to play and is a puppy
 loves_to_play && puppy
 
-= begin
-What did your final line of code evaluate to? Why do you think that is?
+#What did your final line of code evaluate to? Why do you think that is?
 
-ANSWER: The final line of code says '(undefined local variable or method `puppy'
-for main:Object)` The variable 'puppy' is not defined, so it cannot determine if it is true or false.
-= end
+#ANSWER: The final line of code says '(undefined local variable or method `puppy'
+#for main:Object)` The variable 'puppy' is not defined, so it cannot determine if it is true or false.
